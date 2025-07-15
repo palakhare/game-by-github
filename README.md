@@ -24,11 +24,9 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/pong-game.git
+
 Run the game:
-
 If using Python (Pygame):
-
 bash
 Copy
 Edit
